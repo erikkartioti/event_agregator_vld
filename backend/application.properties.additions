@@ -1,0 +1,3 @@
+qwen.base-url=${QWEN_BASE_URL:https://dashscope-intl.aliyuncs.com/compatible-mode/v1}
+qwen.api-key=${QWEN_API_KEY:}
+qwen.model=${QWEN_MODEL:qwen-plus}

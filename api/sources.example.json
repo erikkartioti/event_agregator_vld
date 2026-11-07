@@ -1,0 +1,17 @@
+[
+  {
+    "name": "example_theater_api",
+    "url": "https://api.example-theater.ru/v1/events",
+    "location": "Название театра",
+    "items_path": "data.items",
+    "field_map": {
+      "title": "name",
+      "date": "start_at",
+      "genre": "genre",
+      "age_restriction": "age",
+      "scene": "hall.name",
+      "details": "description"
+    },
+    "headers": {"Authorization": "Bearer ${EXAMPLE_API_TOKEN}"}
+  }
+]

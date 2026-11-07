@@ -1,0 +1,6 @@
+target/
+airflow/
+db/
+*.mbtiles
+.git/
+.env
