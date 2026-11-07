@@ -110,3 +110,7 @@ python -m unittest discover -s airflow/tests -v            # структура 
 
 ## Прод
 `npm run build`, содержимое `frontend/dist` положить в `src/main/resources/static`; `/tiles/*` проксировать на Martin (nginx).
+
+## Лицензия
+
+All rights reserved, см. [LICENSE](LICENSE). 
